@@ -300,6 +300,107 @@ address {
     align-items: center;
 }
 
+.nasi-klienci {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 94px;
+}
+
+.bloki-nasi-klienci {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 94px;
+}
+
+.nasi-klienci-logo-1 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.nasi-klienci-logo-2 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.nasi-klienci-logo-3 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.nasi-klienci-logo-4 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.nasi-klienci-logo-5 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.nasi-klienci-logo-6 {
+    width: 170px;
+    height: 92px;
+    border: 1px solid #afb1b8;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nasi-klienci-logo-1:hover {
+    border-color: #2196f3;
+}
+
+.nasi-klienci-logo-1-svg:hover {
+    fill: #2196f3;
+}
+
+.nasi-klienci-logo-1-svg {
+    fill: #afb1b8;
+}
+
+.nasi-klienci-logo-2-svg {
+    fill: #afb1b8;
+}
+
+.nasi-klienci-logo-2:hover {
+    border-color: #2196f3;
+}
+
+.nasi-klienci-logo-2-svg:hover {
+    fill: #2196f3;
+}
+
 /* index.html */
 
 .main-title {
