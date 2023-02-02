@@ -449,6 +449,53 @@ address {
     fill: #afb1b8;
 }
 
+.icon-social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-social-media-instagram {
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-instagram > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-twitter {
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-facebook {
+    width: 44px;
+    height: 44px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-interia {
+    width: 44px;
+    height: 44px;
+    background-color: purple;
+    border-radius: 50px;
+}
+
 /* index.html */
 
 .main-title {
@@ -593,7 +640,8 @@ address {
     margin-right: 30px;
     background-color: white;
     border-radius: 0px 0px 4px 4px;
-    height: 368px;
+    height: 428px;
+    width: 270px;
     display: flex;
     flex-direction: column;
 }
