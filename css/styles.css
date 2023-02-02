@@ -473,6 +473,14 @@ address {
     fill: #afb1b8;
 }
 
+.icon-social-media-twitter > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-facebook > svg {
+    fill: #afb1b8;
+}
+
 .icon-social-media-twitter {
     width: 44px;
     height: 44px;
@@ -508,6 +516,18 @@ address {
 
 .icon:hover {
     fill: #ffffff;
+}
+
+.icon-social-media-twitter:hover {
+    background-color: #2196f3;
+}
+
+.icon-social-media-facebook:hover {
+    background-color: #2196f3;
+}
+
+.icon-social-media-interia:hover {
+    background-color: #2196f3;
 }
 
 /* index.html */
