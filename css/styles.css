@@ -129,6 +129,9 @@
 
 .container {
     width: 1200px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
 }
 
 .main-logo-header {
@@ -528,6 +531,91 @@ address {
 
 .icon-social-media-interia:hover {
     background-color: #2196f3;
+}
+
+.icon-social-media-bottom {
+    display: flex;
+    margin-left: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-2-bottom {
+    background-color: purple;
+}
+
+.icon-social-media-instagram-bottom {
+    width: 44px;
+    height: 44px;
+    background-color: #ffffff1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-instagram-bottom > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-instagram-bottom:hover {
+    background-color: #2196f3;
+}
+
+.icon-social-media-twitter-bottom {
+    width: 44px;
+    height: 44px;
+    background-color: #ffffff1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-twitter-bottom > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-twitter-bottom:hover {
+    background-color: #2196f3;
+}
+
+.icon-social-media-facebook-bottom {
+    width: 44px;
+    height: 44px;
+    background-color: #ffffff1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.icon-social-media-facebook-bottom > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-facebook-bottom:hover {
+    background-color: #2196f3;
+}
+
+.icon-social-media-interia-bottom {
+    width: 44px;
+    height: 44px;
+    background-color: #ffffff1a;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-social-media-interia-bottom > svg {
+    fill: #afb1b8;
+}
+
+.icon-social-media-interia-bottom:hover {
+    background-color: #2196f3;
+}
+
+.title-social-media-bottom {
 }
 
 /* index.html */
