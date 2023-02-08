@@ -580,6 +580,7 @@ address {
     width: 696px;
     height: 120px;
     margin-left: 452px;
+    font-style: normal;
 }
 
 .information {
@@ -648,8 +649,8 @@ address {
     margin-bottom: 200px;
     margin-right: 700px;
     margin-left: 700px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    width: 200px;
+    height: 50px;
     font-family: "Roboto";
 }
 
