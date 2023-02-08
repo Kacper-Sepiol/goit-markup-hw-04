@@ -82,9 +82,6 @@
     background-color: white;
     font-family: "Roboto", sans-serif;
     display: flex;
-    width: 1600px;
-    height: 1880px;
-    justify-content: center;
     flex-direction: column;
     background-color: white;
     margin: 0 auto;
@@ -94,7 +91,6 @@
     width: 1170px;
     background-color: white;
     margin: 0 auto;
-    padding-bottom: 94px;
 }
 
 .section {
