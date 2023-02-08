@@ -45,6 +45,7 @@
     line-height: 1.71;
     color: #757575;
     height: 21px;
+    padding-left: 30px;
 }
 
 .link-portfolio-bottom {
@@ -71,11 +72,6 @@
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
-}
-
-.email-tel {
-    text-decoration: none;
-    color: #757575;
 }
 
 .body-portfolio {
@@ -258,7 +254,7 @@ address {
 }
 
 .email-icon {
-    margin-right: 10px;
+    margin-right: -20px;
     color: #757575;
 }
 
@@ -273,7 +269,7 @@ address {
 }
 
 .tel-icon {
-    margin-right: 10px;
+    margin-right: -20px;
     color: #757575;
 }
 
