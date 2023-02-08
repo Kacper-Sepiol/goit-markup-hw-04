@@ -40,10 +40,10 @@
 .link {
     text-decoration: none;
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1.71;
-    color: #ffffff99;
+    color: #757575;
     width: 231px;
     height: 21px;
 }
@@ -260,6 +260,7 @@ address {
 
 .email-icon {
     margin-right: 10px;
+    color: #757575;
 }
 
 .div-tel-icon {
@@ -274,6 +275,7 @@ address {
 
 .tel-icon {
     margin-right: 10px;
+    color: #757575;
 }
 
 .satellite {
