@@ -44,7 +44,6 @@
     font-size: 14px;
     line-height: 1.71;
     color: #757575;
-    width: 231px;
     height: 21px;
 }
 
@@ -251,7 +250,9 @@ address {
 }
 
 .div-email-icon {
-    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
 }
 
 .div-email-icon:hover {
@@ -265,7 +266,7 @@ address {
 
 .div-tel-icon {
     display: flex;
-    justify-content: center;
+    align-items: center;
     color: #757575;
 }
 
