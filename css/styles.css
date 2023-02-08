@@ -649,12 +649,10 @@ address {
     line-height: 1.6;
     cursor: pointer;
     border-radius: 4px;
-    margin-bottom: 200px;
-    margin-right: 700px;
-    margin-left: 700px;
     width: 200px;
     height: 50px;
     font-family: "Roboto";
+    margin-left: 700px;
 }
 
 .button-main-title:focus {
