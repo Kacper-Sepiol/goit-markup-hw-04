@@ -24,9 +24,9 @@
     background-color: #2196f3;
 }
 
-.link:hover {
+/* .link:hover {
     color: #2196f3;
-}
+} */
 
 .information-bottom {
     display: flex;
@@ -45,7 +45,6 @@
     line-height: 1.71;
     color: #757575;
     height: 21px;
-    padding-left: 30px;
 }
 
 .link-portfolio-bottom {
@@ -244,24 +243,30 @@ address {
 }
 
 .div-email-icon {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     margin-right: 30px;
 }
 
 .div-email-icon:hover {
     fill: #2196f3;
+    color: #2196f3;
 }
 
 .email-icon {
     margin-right: -20px;
-    color: #757575;
+    fill: #757575;
+    margin-right: 10px;
 }
+
+/* .email-icon:hover {
+    fill: #2196f3;
+} */
 
 .div-tel-icon {
     display: flex;
     align-items: center;
-    color: #757575;
+    padding-right: 30px;
 }
 
 .div-tel-icon:hover {
@@ -269,8 +274,8 @@ address {
 }
 
 .tel-icon {
-    margin-right: -20px;
-    color: #757575;
+    margin-right: 10px;
+    fill: #757575;
 }
 
 .satellite {
