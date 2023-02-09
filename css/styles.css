@@ -246,6 +246,7 @@ address {
     display: inline-flex;
     align-items: center;
     margin-right: 30px;
+    fill: #757575;
 }
 
 .div-email-icon:hover {
@@ -255,27 +256,23 @@ address {
 
 .email-icon {
     margin-right: -20px;
-    fill: #757575;
     margin-right: 10px;
 }
-
-/* .email-icon:hover {
-    fill: #2196f3;
-} */
 
 .div-tel-icon {
     display: flex;
     align-items: center;
     padding-right: 30px;
+    fill: #757575;
 }
 
 .div-tel-icon:hover {
     fill: #2196f3;
+    color: #2196f3;
 }
 
 .tel-icon {
     margin-right: 10px;
-    fill: #757575;
 }
 
 .satellite {
